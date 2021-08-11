@@ -46,40 +46,6 @@
         "
       >
         <span class="relative inline-block">
-          <svg
-            viewBox="0 0 52 24"
-            fill="currentColor"
-            class="
-              absolute
-              top-0
-              left-0
-              z-0
-              hidden
-              w-32
-              -mt-8
-              -ml-20
-              text-blue-gray-100
-              lg:w-32 lg:-ml-28 lg:-mt-10
-              sm:block
-            "
-          >
-            <defs>
-              <pattern
-                id="27df4f81-c854-45de-942a-fe90f7a300f9"
-                x="0"
-                y="0"
-                width=".135"
-                height=".30"
-              >
-                <circle cx="1" cy="1" r=".7"></circle>
-              </pattern>
-            </defs>
-            <rect
-              fill="url(#27df4f81-c854-45de-942a-fe90f7a300f9)"
-              width="52"
-              height="24"
-            ></rect>
-          </svg>
           <span class="relative">Faqadelic</span>
         </span>
         manages all your faqs in one place
@@ -123,23 +89,9 @@
             Manage in one place and display anywhere
           </h6>
           <p class="mb-3 text-sm text-gray-900">
-            You'll be able to use Faqadelic API to control how and where you
-            want to display your FAQ section.
+            You'll be able to use Faqadelic API or free addon, to control how
+            and where you want to display your FAQ section.
           </p>
-          <a
-            href="/"
-            aria-label=""
-            class="
-              inline-flex
-              items-center
-              font-semibold
-              transition-colors
-              duration-200
-              text-deep-purple-accent-400
-              hover:text-deep-purple-800
-            "
-            >Learn more</a
-          >
         </div>
       </div>
       <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
@@ -174,22 +126,8 @@
         <div>
           <h6 class="mb-3 text-xl font-bold leading-5">Don't repeat youself</h6>
           <p class="mb-3 text-sm text-gray-900">
-            But display on severa places. Let's Jamstack you FAQ as well.
+            And display your faqs on several places. Let's Jamstack you FAQ !.
           </p>
-          <a
-            href="/"
-            aria-label=""
-            class="
-              inline-flex
-              items-center
-              font-semibold
-              transition-colors
-              duration-200
-              text-deep-purple-accent-400
-              hover:text-deep-purple-800
-            "
-            >Learn more</a
-          >
         </div>
       </div>
       <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
@@ -226,23 +164,9 @@
             Get control and tune it
           </h6>
           <p class="mb-3 text-sm text-gray-900">
-            Are your faq relevant ? How many times they have read ? What do
-            people think about then ?
+            Are your faq relevant ? How many times have they been read ? What do
+            people think about them ? Get some insights from your content.
           </p>
-          <a
-            href="/"
-            aria-label=""
-            class="
-              inline-flex
-              items-center
-              font-semibold
-              transition-colors
-              duration-200
-              text-deep-purple-accent-400
-              hover:text-deep-purple-800
-            "
-            >Learn more</a
-          >
         </div>
       </div>
       <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
@@ -282,20 +206,6 @@
             Wordpress ? Javascript ? ...we got you cover with snippets and
             plugins. Just drop them into your system.
           </p>
-          <a
-            href="/"
-            aria-label=""
-            class="
-              inline-flex
-              items-center
-              font-semibold
-              transition-colors
-              duration-200
-              text-deep-purple-accent-400
-              hover:text-deep-purple-800
-            "
-            >Learn more</a
-          >
         </div>
       </div>
     </div>

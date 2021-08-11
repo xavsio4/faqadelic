@@ -15,25 +15,6 @@
       <div
         class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12"
       >
-        <div>
-          <p
-            class="
-              inline-block
-              px-3
-              py-px
-              mb-4
-              text-xs
-              font-semibold
-              tracking-wider
-              text-teal-900
-              uppercase
-              rounded-full
-              bg-teal-accent-400
-            "
-          >
-            Brand new
-          </p>
-        </div>
         <h2
           class="
             max-w-lg
@@ -49,40 +30,6 @@
           "
         >
           <span class="relative inline-block">
-            <svg
-              viewBox="0 0 52 24"
-              fill="currentColor"
-              class="
-                absolute
-                top-0
-                left-0
-                z-0
-                hidden
-                w-32
-                -mt-8
-                -ml-20
-                text-blue-gray-100
-                lg:w-32 lg:-ml-28 lg:-mt-10
-                sm:block
-              "
-            >
-              <defs>
-                <pattern
-                  id="70326c9b-4a0f-429b-9c76-792941e326d5"
-                  x="0"
-                  y="0"
-                  width=".135"
-                  height=".30"
-                >
-                  <circle cx="1" cy="1" r=".7"></circle>
-                </pattern>
-              </defs>
-              <rect
-                fill="url(#70326c9b-4a0f-429b-9c76-792941e326d5)"
-                width="52"
-                height="24"
-              ></rect>
-            </svg>
             <span class="relative">You'll</span>
           </span>
           never believe from where we are managing those faqs below ? :-)
@@ -117,7 +64,7 @@
     </div>
     <div id="faqadelic" class="mt-6 text-xs text-gray-300 text-right">
       Faq served by
-      <a href="https://faqadelic.com" target="_blank">Faqadelic</a>
+      <a href="https://faqadelic.com" target="_blank">Faqadelic.com</a>
     </div>
   </div>
 </template>

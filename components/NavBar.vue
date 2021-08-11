@@ -14,41 +14,9 @@
     >
       <div class="relative flex grid items-center grid-cols-2 lg:grid-cols-3">
         <ul class="flex items-center hidden space-x-8 lg:flex">
-          <li>
+          <li v-if="!authenticated">
             <a
-              href="/"
-              aria-label="What is it ?"
-              title="What is it ?"
-              class="
-                font-medium
-                tracking-wide
-                text-gray-400
-                transition-colors
-                duration-200
-                hover:text-teal-accent-400
-              "
-              >What is it ?</a
-            >
-          </li>
-          <li>
-            <a
-              href="/"
-              aria-label="Features"
-              title="Featurest"
-              class="
-                font-medium
-                tracking-wide
-                text-gray-400
-                transition-colors
-                duration-200
-                hover:text-teal-accent-400
-              "
-              >Features</a
-            >
-          </li>
-          <li>
-            <a
-              href="/"
+              href="#price"
               aria-label="Product pricing"
               title="Product pricing"
               class="
@@ -59,7 +27,7 @@
                 duration-200
                 hover:text-teal-accent-400
               "
-              >Pricing</a
+              >Pricing (free)</a
             >
           </li>
         </ul>
